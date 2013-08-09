@@ -1,0 +1,4 @@
+helloword
+=========
+
+tryingto understand git
